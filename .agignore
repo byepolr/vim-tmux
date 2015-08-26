@@ -1,1 +1,13 @@
-/Users/jjones/.agignore
+*log*
+*built.js
+*min.js
+*.gemspec
+*.csv
+vendor/*
+temp/*
+*.conf
+*coffee-script.js
+*build-config.js
+*.rej
+*.orig
+*.json
