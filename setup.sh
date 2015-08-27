@@ -8,8 +8,8 @@ do
     then
       targetfile="~/${file##*/}"
       sourcefile="${SCRIPTPATH}/${file}"
-      rm -f $targetfile
-      ln -s $sourcefile $targetfile
+      echo "rm -f $targetfile"
+      echo "ln -s $sourcefile $targetfile"
     fi
   fi
 done

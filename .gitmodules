@@ -1,0 +1,39 @@
+[submodule "YouCompleteMe"]
+    path = bundle/YouCompleteMe
+      url =  https://github.com/Valloric/YouCompleteMe.git
+[submodule "tern_for_vim"]
+    path = bundle/tern_for_vim
+      url = https://github.com/marijnh/tern_for_vim.git
+[submodule "nerdtree"]
+    path = bundle/nerdtree
+      url = https://github.com/scrooloose/nerdtree.git
+[submodule "ctrlp"]
+    path = bundle/ctrlp
+      url = https://github.com/kien/ctrlp.vim.git
+[submodule "fugitive"]
+    path = bundle/fugitive
+      url = https://github.com/tpope/vim-fugitive.git
+[submodule "syntastic"]
+    path = bundle/syntastic
+      url = https://github.com/scrooloose/syntastic.git
+[submodule "jshint"]
+    path = bundle/jshint
+      url = https://github.com/wookiehangover/jshint.vim.git
+[submodule "vim-node"]
+    path = bundle/vim-node
+      url = https://github.com/moll/vim-node.git
+[submodule "vim-ruby"]
+    path = bundle/vim-ruby
+      url = https://github.com/tpope/vim-rails.git
+[submodule "vim-airline"]
+    path = bundle/vim-airline
+      url = https://github.com/bling/vim-airline.git
+[submodule "ultisnips"]
+    path = bundle/ultisnips
+      url = https://github.com/SirVer/ultisnips.git
+[submodule "vim-snippets"]
+    path = bundle/vim-snippets
+      url = https://github.com/honza/vim-snippets.git
+[submodule "supertab"]
+    path = bundle/supertab
+      url = https://github.com/ervandew/supertab.git
